@@ -1,4 +1,5 @@
 console.log('Hello world!');
+console.log("welcome to java script");
 
 //git commands to push the code -
 
